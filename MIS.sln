@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MISwin", ".\MISwin\MISwin.csproj", "{7B43500C-B679-485C-A1CD-24A746F226DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MIScon", ".\MIScon\MIScon.csproj", "{A24E8914-4A50-47BA-BA10-76207960C75E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B43500C-B679-485C-A1CD-24A746F226DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B43500C-B679-485C-A1CD-24A746F226DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B43500C-B679-485C-A1CD-24A746F226DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B43500C-B679-485C-A1CD-24A746F226DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A24E8914-4A50-47BA-BA10-76207960C75E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A24E8914-4A50-47BA-BA10-76207960C75E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A24E8914-4A50-47BA-BA10-76207960C75E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A24E8914-4A50-47BA-BA10-76207960C75E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
